@@ -16,6 +16,9 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 - Current temperature
 - Pressure and precipitation information
 
+## Live-Preview
+
+[Click Here to View Live Preview](https://dazzling-llama-aa1b93.netlify.app/)
 
 ## Screenshots
 
